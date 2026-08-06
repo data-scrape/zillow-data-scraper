@@ -1,0 +1,11 @@
+[
+  {
+    "address": "123 Main St, Austin, TX",
+    "price": "$450,000",
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1800,
+    "zestimate": "$445,000",
+    "url": "https://zillow.com/homes/123-main-st"
+  }
+]
